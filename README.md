@@ -22,8 +22,13 @@ https://github.com/udacity/deep-reinforcement-learning#dependencies
 
 #### ML-Agents toolkit
 The project uses an environment provided by Unity ML Agents, and this can be installed by 
-1. Downloading the below zip file. Note that here we are solving the 20 agent environment.
-[AWS](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux_NoVis.zip)
+1. Downloading one of the below zip files. Note that here we are solving the 20 agent environment.
+
+* [AWS](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux_NoVis.zip)
+* [Linux](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
+* [Mac OS](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
+* [Windows 32 bit](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
+* [Windows 64 bit](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
 
 2. Place it in the p2_continuous-control/ folder in the DRLND GitHub repository, and unzip it.
 
