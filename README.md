@@ -22,10 +22,10 @@ https://github.com/udacity/deep-reinforcement-learning#dependencies
 
 #### ML-Agents toolkit
 The project uses an environment provided by Unity ML Agents, and this can be installed by 
-1. Downloading the below zip file (corresponding to your platform). Note that here we are solving the single agent environment.
+1. Downloading the below zip file. Note that here we are solving the 20 agent environment.
 [AWS](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux_NoVis.zip)
 
-2. Place it in the p2_continuous-control/ folder in the DRLND GitHub repository, and unzipping it.
+2. Place it in the p2_continuous-control/ folder in the DRLND GitHub repository, and unzip it.
 
 
 # Training the agent
@@ -33,6 +33,6 @@ To run the code in this repository,
 1. Open the Continuous_Control.ipynb notebook
 2. Start the environment by following the first few cells
 3. Sections 2,3 explore the environment, and also look at how a random agent would perform
-4. Section 4 contains trains an agent that uses Deep Deterministic Policy Gradients (DDPG) to learn a policy for this environment. This DDPG agent is based on the Pendulum DDPG agent in the same nanodegree program.
+4. Section 4 trains an agent that uses Deep Deterministic Policy Gradients (DDPG) to learn a policy for this environment. This DDPG agent is based on the Pendulum DDPG agent in the same nanodegree program.
 
 For a description of the DDPG agent, please see Report.pdf
